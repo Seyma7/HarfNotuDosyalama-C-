@@ -1,0 +1,9 @@
+AA Sayisi : 1 AA Yuzdesi : 4
+BA Sayisi : 3 BA Yuzdesi : 12
+BB Sayisi : 5 BB Yuzdesi : 20
+CB Sayisi : 3 CB Yuzdesi : 12
+CC Sayisi : 4 CC Yuzdesi : 16
+DC Sayisi : 3 DC Yuzdesi : 12
+DD Sayisi : 2 DD Yuzdesi : 8
+FD Sayisi : 3 FD Yuzdesi : 12
+FF Sayisi : 0 FF Yuzdesi : 0
